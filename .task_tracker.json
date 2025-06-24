@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A tic tac toe game application.', 'containers': [{'container_name': 'tic_tac_toe_backend', 'platform': 'backend', 'framework': 'fastapi', 'description': 'Handles tic tac toe game logic and APIs for managing game state.', 'interfaces': 'REST API endpoints for starting a game, making a move, and fetching game state.', 'relative_path': 'tic_tac_toe_backend_workspace', 'dependencies': [], 'container_type': 'backend', 'container_details': 'Implements game rules and maintains session or state for active games.'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
